@@ -25,7 +25,7 @@ const Footer: React.FC = () => {
             <ul className="space-y-2 text-gray-400">
               <li><a href="#" className="hover:text-white transition-colors">Inicio</a></li>
               <li><a href="#" className="hover:text-white transition-colors">Cachorros</a></li>
-              <li><a href="#" className="hover:text-white transition-colors">Sobre Nosotros</a></li>
+              <li><a href="#" className="hover:text-white transition-colors">Nosotros</a></li>
               <li><a href="#" className="hover:text-white transition-colors">Contacto</a></li>
             </ul>
           </div>

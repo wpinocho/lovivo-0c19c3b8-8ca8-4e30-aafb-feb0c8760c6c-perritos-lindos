@@ -21,7 +21,7 @@ const Header: React.FC<HeaderProps> = ({ onCartClick }) => {
           <nav className="hidden md:flex items-center space-x-6">
             <a href="#" className="text-gray-700 hover:text-pink-600 transition-colors">Inicio</a>
             <a href="#" className="text-gray-700 hover:text-pink-600 transition-colors">Cachorros</a>
-            <a href="#" className="text-gray-700 hover:text-pink-600 transition-colors">Sobre Nosotros</a>
+            <a href="#" className="text-gray-700 hover:text-pink-600 transition-colors">Nosotros</a>
             <a href="#" className="text-gray-700 hover:text-pink-600 transition-colors">Contacto</a>
           </nav>
 
